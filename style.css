@@ -69,5 +69,9 @@ p {
   opacity: 0.75;
   user-select: none;
   
-  // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
+   /* filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9)); */
+}
+#imgn{
+  
+  max-height: 290px;
 }
