@@ -75,3 +75,16 @@ p {
   
   max-height: 290px;
 }
+#imgn2{
+  max-height: 350px;
+  max-width: 350px;
+}
+#imgn3{
+  max-height: 300px;
+}
+#p2{
+  font-size: 3rem;
+}
+#p21{
+  line-height: 10px;
+}
